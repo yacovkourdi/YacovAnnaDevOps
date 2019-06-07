@@ -21,7 +21,7 @@ img {margin-bottom: -7px}
     <i class="fa fa-remove"></i>
   </a>
   <div class="w3-bar-block w3-center">
-    <a href="reqparams.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Sample Page</a>
+    <a href="samplepage.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Sample Page</a>
   </div>
   
   
