@@ -41,7 +41,7 @@ img {margin-bottom: -7px}
   <p><b>A Sample Project, Course HIT DevOps.</b></p>
   
  
-  <p class="w3-padding-16"> <button id="myButton" class="float-left submit-button" >Click Here</button>
+  <p class="w3-padding-16"> <button id="myButton" class="float-left submit-button" >Go To Chat</button>
   </p>
 </header>
 </div>
